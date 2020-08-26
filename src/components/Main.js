@@ -35,7 +35,7 @@ class Main extends Component{
     var initial=0;
       var end=initial+4; 
     this.state.details.forEach((detail, i) =>{  
-      if( i==0 || i==1 || i==2 || i==3 || i>=4){
+      if( i%1==0){
         content.push(
           <div className="row" key={detail.id}>       
           <Tiles open={this.state.open} close={this.close} id={i} details={this.state.details.slice(initial,end)}/>
