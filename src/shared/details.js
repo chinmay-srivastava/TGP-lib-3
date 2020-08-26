@@ -122,5 +122,18 @@ export const DETAILS=
         name:'Lorem ipsum 18',
         image:'assets/placehold.jpeg',
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus, tellus sit amet rutrum congue, tortor nunc consectetur neque, quis dignissim turpis ipsum non est. Fusce vitae quam viverra, tempor arcu at, finibus nisi. Aliquam mi diam, aliquet sit amet nunc in, blandit interdum neque. Morbi sit amet bibendum turpis, quis facilisis libero. Nulla condimentum est ut tellus euismod, eget tristique arcu tincidunt. In lacinia libero vel enim gravida condimentum. Morbi faucibus, leo at tincidunt semper, urna purus euismod metus, non fermentum purus ligula non lorem. Mauris nec sem iaculis, imperdiet purus sed, maximus ante. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent nec efficitur massa, a interdum urna.'
-    }
+    },
+    {
+        id: 18,
+        name:'Lorem ipsum 19',
+        image:'assets/placehold.jpeg',
+        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus, tellus sit amet rutrum congue, tortor nunc consectetur neque, quis dignissim turpis ipsum non est. Fusce vitae quam viverra, tempor arcu at, finibus nisi. Aliquam mi diam, aliquet sit amet nunc in, blandit interdum neque. Morbi sit amet bibendum turpis, quis facilisis libero. Nulla condimentum est ut tellus euismod, eget tristique arcu tincidunt. In lacinia libero vel enim gravida condimentum. Morbi faucibus, leo at tincidunt semper, urna purus euismod metus, non fermentum purus ligula non lorem. Mauris nec sem iaculis, imperdiet purus sed, maximus ante. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent nec efficitur massa, a interdum urna.'
+    },
+    {
+        id: 19,
+        name:'Lorem ipsum 20',
+        image:'assets/placehold.jpeg',
+        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus, tellus sit amet rutrum congue, tortor nunc consectetur neque, quis dignissim turpis ipsum non est. Fusce vitae quam viverra, tempor arcu at, finibus nisi. Aliquam mi diam, aliquet sit amet nunc in, blandit interdum neque. Morbi sit amet bibendum turpis, quis facilisis libero. Nulla condimentum est ut tellus euismod, eget tristique arcu tincidunt. In lacinia libero vel enim gravida condimentum. Morbi faucibus, leo at tincidunt semper, urna purus euismod metus, non fermentum purus ligula non lorem. Mauris nec sem iaculis, imperdiet purus sed, maximus ante. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent nec efficitur massa, a interdum urna.'
+    },
+    
 ]

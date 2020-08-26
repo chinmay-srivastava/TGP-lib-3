@@ -11,7 +11,7 @@ class Main extends Component{
     super(props);
     this.state={
       details:DETAILS,
-      open: [false, false, false, false]
+      open: [false, false, false, false, false,false, false, false, false, false]
     }
     this.close=this.close.bind(this);
   }
